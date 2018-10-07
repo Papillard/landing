@@ -30,6 +30,7 @@ a:hover {
   padding: 150px 0px;
   background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("https://picsum.photos/1000/600?random");
   background-size: cover;
+  background-position: center;
 }
 .banner h1 {
   font-size: 50px;
